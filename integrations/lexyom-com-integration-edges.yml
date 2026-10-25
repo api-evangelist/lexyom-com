@@ -1,0 +1,20 @@
+generated: '2026-10-25'
+method: none
+source:
+- https://zapier.com/apps/lexyom-com/integrations
+- https://zapier.com/apps/lexyom/integrations
+- https://n8n.io/integrations/lexyom-com/
+- https://n8n.io/integrations/lexyom/
+- https://composio.dev/toolkits/lexyom-com
+- https://monid.ai/tools/lexyom-com
+checked:
+- https://composio.dev/toolkits/lexyom-com
+- https://monid.ai/tools/lexyom-com
+- https://n8n.io/integrations/lexyom-com/
+- https://n8n.io/integrations/lexyom/
+- https://zapier.com/apps/lexyom-com/integrations
+- https://zapier.com/apps/lexyom/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
